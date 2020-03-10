@@ -1,0 +1,37 @@
+# This is a comment.
+#_size_\d*_*  por ""    - por _    _size_  por ""
+#uno
+^HaemonchusContortus red
+^HaemonchusPlacei #ff6666
+^TeladorsagiaCircumcincta #ff6666
+^AncylostomaCaninum #ff6666
+^NippostrongylusBrasiliensis #ff6666
+^Angiostrongylus #ff6666
+^DictyocaulusViviparus #ff6666
+^NecatorAmericanus #ff6666
+^HeligmosomoidesPolygyrus #ff6666
+#dos
+^CaenorhabditisElegans blue
+^CaenorhabditisBrenneri #9999ff
+^CaenorhabditisBriggsae #9999ff
+^CaenorhabditisNigoni #9999ff
+^CaenorhabditisRemanei #9999ff
+#tres
+^PristionchusPacificus brown
+#cuatro
+^AnisakisSimplex green
+^BrugiaMalayi green
+^DirofilariaImmitis green
+^DracunculusMedinensis green
+^EnterobiusVermicularis green
+^LoaLoa green
+^OnchocercaVolvulus green
+^SteinernemaCarpocapsae green
+^ThelaziaCallipaeda green
+^ToxocaraCanis green
+^WuchereriaBancrofti green
+^ParascarisEquorum green
+#cinco
+^StrongyloidesRatti yellow
+^StrongyloidesStercoralis yellow
+#fin
